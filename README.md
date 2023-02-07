@@ -16,7 +16,7 @@
 ------------
 
 - Data Cleaning
-    - [Data Cleaning in python]((https://app.datacamp.com/learn/courses/cleaning-data-in-python)")
+    - [Data Cleaning in python](https://app.datacamp.com/learn/courses/cleaning-data-in-python")
     - [Notebook1](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/notebook "Notebook1")
     - [Notebook2](https://www.kaggle.com/code/ashishg21/data-cleaning-and-some-analysis-shoe-prices/notebook "Notebook2")
     - [kaggle cleaning workflow](https://www.kaggle.com/learn/data-cleaning "kaggle cleaning workflow")
