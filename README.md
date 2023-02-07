@@ -31,3 +31,42 @@
 
 Extra - cheet sheets
 [here](https://github.com/MohamedAlaaAli/DataScienceResources/blob/main/README.md "here")
+
+
+------------
+
+
+- Time series analysis
+  - [Working with dates and time in python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python "Working with dates and time in python")
+  - [manipulating time series data in python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python "manipulating time series data in python")
+  - [Time series analysis in python](https://www.datacamp.com/courses/time-series-analysis-in-python "Time series analysis in python")
+  - [machine learning for time series data in python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python "machine learning for time series data in python")
+    -[time series ML arabic](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2 "time series ML arabic")
+    -[time series ML arabic part2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2 "time series ML arabic part2")
+
+------------
+- Machine Learning
+  - Essentials
+    1. splitting the data into training and validation data
+    1.  crossvalidation
+    1. Hyperparameter tuning
+    1. grid search crossvalidation
+    1. pipelining
+  - Supervised
+    a. KNN
+    b. Linear Regression / Ridge / Lasso
+    c. Linear SVM
+    d. SVM
+    e. Logistic Regression (binary class - Multi class)
+    f. Decision Trees
+    g. Random Forests
+  - Unsupervised
+    a. KMeans clustering
+    b. Dimension reduction with PCA
+    c. hierarchical clustering (optional)
+  - Advanced
+    - XGBOOST
+    - SGD
+    - Adaboost classifier/Regressor
+    - gradient boosting classifier/regressor
+
